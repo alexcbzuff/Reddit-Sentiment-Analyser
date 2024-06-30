@@ -1,0 +1,1 @@
+This was a project I did in the fall of 2023. I used the Python NLTK library, Vader sentiment analyser, reddit and google APIs, and used them to grab and map the sentiment of user on r/politics over the course of one calender year.
