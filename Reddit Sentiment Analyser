@@ -92,10 +92,10 @@
    "source": [
     "# Connect to Reddit and fetch comments\n",
     "reddit = praw.Reddit(\n",
-    "     client_id=\"QPP46NIsr7UuB9iuhiU-iA\", \n",
-    "     client_secret=\"LHBCORcsO8KYZSpD98q5Ml5wILva1g\", \n",
-    "     user_agent=\"'Python:QPP46NIsr7UuB9iuhiU-iA:1 (by /u/happyrackham)'\",\n",
-    "     check_for_async=False\n",
+    "     client_id=",
+    "     client_secret=
+    "     user_agent=\"
+    "     check_for_async=
     " )\n",
     "post_data = []\n"
    ]
